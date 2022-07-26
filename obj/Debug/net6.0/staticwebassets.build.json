@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A9Ug4VSfaeEMlgI/cvCDAGkiZ86TmsVqGbyBGwMD1io=",
+  "Source": "shipping-backend",
+  "BasePath": "_content/shipping-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
